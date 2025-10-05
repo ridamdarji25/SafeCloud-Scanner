@@ -126,6 +126,10 @@ After upload:
 
 ---
 
+Whole walkthrough with images was present in `iamges/image.md` .. just go through it and configure by yourself ..
+
+---
+
 ## 🧾 Author
 
 MIT License  
