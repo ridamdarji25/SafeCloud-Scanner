@@ -22,10 +22,6 @@ This is small, clean, and made for learning cloud automation and security.
 
 ---
 
-Put your architecture picture as `architecture.png` in the repo root so it shows here.
-
----
-
 ##  💻 Setup
 
 **1) Create S3 buckets 🪣**
