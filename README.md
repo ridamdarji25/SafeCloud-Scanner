@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/SafeCloud--Scanner-Project-blueviolet" alt="SafeCloud Scanner" />
-</p>
-
 # ☁️ SafeCloud Scanner
 
 Simple hands-on AWS project that scans uploaded files using VirusTotal.  
