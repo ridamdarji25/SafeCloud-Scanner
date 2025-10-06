@@ -107,7 +107,9 @@ just go to lambda function add the trigger and select S3 in it and choose your b
 
 ---
 
+Download safe malicious file from here (make sure to turn off antivirus) : https://www.ikarussecurity.com/wp-content/downloads/eicar_com.zip
 
+---
 
 After upload:
 - Lambda runs and scans the file  
