@@ -5,9 +5,9 @@ Files uploaded to a staging S3 bucket are scanned automatically by Lambda, then 
 This is small, clean, and made for learning cloud automation and security.
 
 ---
+
 # 📋 Architecture Diagram
 <img width="676" height="416" alt="image" src="https://github.com/user-attachments/assets/0b3eb3ff-a40d-4510-9c34-7eedd57a4ad5" />
-
 
 ---
 
@@ -24,6 +24,16 @@ This is small, clean, and made for learning cloud automation and security.
 - Files stored separately (safe / malicious)  
 - Email notifications with SNS  
 - Minimal, easy-to-follow setup
+
+---
+
+## 🔐 Security Design
+
+- IAM Least Privilege Access
+- Event-driven automated threat detection
+- File isolation using separate buckets
+- External malware intelligence integration
+- Monitoring via CloudWatch Logs
 
 ---
 
